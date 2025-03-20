@@ -33,7 +33,7 @@
   import TopicHeader from '@/components/TopicHeader.vue'
   import TopicSubtopics from '@/components/TopicSubtopics.vue'
   import TopicAdditionalInfo from '@/components/TopicAdditionalInfo.vue'
-  import { tema5Data } from '@/data/tema5.js'
+  import { tema5Data } from '@/datos/tema5.js'
   
   const storageKey = 'tema5Progress'
   const temaData = tema5Data

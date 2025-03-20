@@ -36,7 +36,7 @@
   import TopicHeader from '@/components/TopicHeader.vue'
   import TopicSubtopics from '@/components/TopicSubtopics.vue'
   import TopicAdditionalInfo from '@/components/TopicAdditionalInfo.vue'
-  import { tema2Data } from '@/data/tema2.js'
+  import { tema2Data } from '@/datos/tema2.js'
   
   // Define la clave para este tema en localStorage
   const storageKey = 'tema2Progress'

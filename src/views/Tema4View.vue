@@ -33,7 +33,7 @@
   import TopicHeader from '@/components/TopicHeader.vue'
   import TopicSubtopics from '@/components/TopicSubtopics.vue'
   import TopicAdditionalInfo from '@/components/TopicAdditionalInfo.vue'
-  import { tema4Data } from '@/data/tema4.js'
+  import { tema4Data } from '@/datos/tema4.js'
   
   //Clave de almacenamiento local
   const storageKey = 'tema4Progress'

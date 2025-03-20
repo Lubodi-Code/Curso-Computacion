@@ -36,7 +36,7 @@ import ProgressBar from '@/components/ProgressBar.vue'
 import TopicHeader from '@/components/TopicHeader.vue'
 import TopicSubtopics from '@/components/TopicSubtopics.vue'
 import TopicAdditionalInfo from '@/components/TopicAdditionalInfo.vue'
-import { tema3Data } from '@/data/tema3.js'
+import { tema3Data } from '@/datos/tema3.js'
 
 // Clave para almacenar el progreso de Tema 3 en localStorage
 const storageKey = 'tema3Progress'

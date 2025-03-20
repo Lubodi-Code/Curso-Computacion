@@ -101,7 +101,7 @@
   <script setup>
 import { ref, onMounted } from 'vue'
 import Link from '@/components/Link.vue'
-import { temas as temasData } from '@/data/temas.js'
+import { temas as temasData } from '@/datos/temas.js'
 
 // Array reactivo que guardará los temas con estado "showFull"
 const topics = ref([])

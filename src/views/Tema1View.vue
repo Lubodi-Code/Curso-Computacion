@@ -35,7 +35,7 @@
   import TopicHeader from '@/components/TopicHeader.vue'
   import TopicSubtopics from '@/components/TopicSubtopics.vue'
   import TopicAdditionalInfo from '@/components/TopicAdditionalInfo.vue'
-  import { tema1Data } from '@/data/tema1.js'
+  import { tema1Data } from '@/datos/tema1.js'
   
   // Clave de localStorage para el progreso del Tema 1
   const storageKey = 'tema1Progress'

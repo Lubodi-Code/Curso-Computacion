@@ -1,4 +1,4 @@
-// src/data/tema1.js
+
 
 export const tema1Data = {
     title: 'Tema 1: Conceptos Básicos',

@@ -29,7 +29,7 @@
   import TopicHeader from '@/components/TopicHeader.vue'
   import TopicSubtopics from '@/components/TopicSubtopics.vue'
   import TopicAdditionalInfo from '@/components/TopicAdditionalInfo.vue'
-  import { tema6Data } from '@/data/tema6.js'
+  import { tema6Data } from '@/datos/tema6.js'
   
   const temaData = tema6Data
   const storageKey = 'tema6Progress'
